@@ -1,0 +1,4 @@
+{
+  "test_solver.py::TestSudokuSolver::test_02_solve_step": true,
+  "test_solver.py::TestSudokuSolver::test_03_solve": true
+}
